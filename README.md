@@ -1,3 +1,3 @@
-# PEDA1-ryhmätyön Java-esimmerkki
+# PEDA1-ryhmätyön Java-esimerkki
 
-Java-esimerkki PEDA1-ryhmätyötä varten
+Java-esimerkki PEDA1-ryhmätyötä varten (ohjelmoitu NetBeans-kehitysympäristöä käyttäen)
