@@ -1,1 +1,3 @@
-# peda1_java_esim
+# PEDA1-ryhmätyön Java-esimmerkki
+
+Java-esimerkki PEDA1-ryhmätyötä varten
